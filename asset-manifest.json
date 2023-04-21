@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Natgeo-landing-page/static/css/main.073c9b0a.css",
+    "main.js": "/Natgeo-landing-page/static/js/main.10b34f1c.js",
+    "static/js/787.16907337.chunk.js": "/Natgeo-landing-page/static/js/787.16907337.chunk.js",
+    "static/media/Lion (1).png": "/Natgeo-landing-page/static/media/Lion (1).e39574ca6c80bdd24a50.png",
+    "static/media/Card.png": "/Natgeo-landing-page/static/media/Card.4e3d432977c502aab89b.png",
+    "static/media/Group 12.png": "/Natgeo-landing-page/static/media/Group 12.dd03416c865c7497da05.png",
+    "static/media/Group 13.png": "/Natgeo-landing-page/static/media/Group 13.9f65d3fb341544776f34.png",
+    "index.html": "/Natgeo-landing-page/index.html",
+    "main.073c9b0a.css.map": "/Natgeo-landing-page/static/css/main.073c9b0a.css.map",
+    "main.10b34f1c.js.map": "/Natgeo-landing-page/static/js/main.10b34f1c.js.map",
+    "787.16907337.chunk.js.map": "/Natgeo-landing-page/static/js/787.16907337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.10b34f1c.js"
+  ]
+}
